@@ -1,0 +1,42 @@
+.filter-panel {
+    width: 25%;
+    padding-right: 1rem;
+  }
+  
+  .filter-section {
+    margin-bottom: 1.5rem;
+  }
+  
+  .filter-header {
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    font-size: 1rem;
+  }
+  
+  .filter-options {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .specialities-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    max-height: 24rem;
+    overflow-y: auto;
+    padding-right: 0.5rem;
+  }
+  
+  .filter-option {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    cursor: pointer;
+  }
+  
+  .filter-input {
+    cursor: pointer;
+  }
+  

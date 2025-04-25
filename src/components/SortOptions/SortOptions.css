@@ -1,0 +1,21 @@
+.sort-section {
+    margin-bottom: 1.5rem;
+  }
+  
+  .sort-options {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .sort-option {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    cursor: pointer;
+  }
+  
+  .sort-input {
+    cursor: pointer;
+  }
